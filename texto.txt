@@ -1,3 +1,4 @@
 Este é um arquivo de exemplo
 Estou na primeira versão
 Adicionando mais uma linha de texto.
+Adicionando linha 4 de texto.
