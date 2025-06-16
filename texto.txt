@@ -3,3 +3,4 @@ Estou na primeira versão
 Adicionando mais uma linha de texto.
 Adicionando linha 4 de texto.
 Adicionando linha 5 de texto.
+Nova linha de texto.
